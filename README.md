@@ -19,7 +19,7 @@
 <br/>
 
 [instagram]: https://instagram.com/portofolioshidqi
-[linkedin]: www.linkedin.com/in/shidqidaffa
+[linkedin]: https://www.linkedin.com/in/shidqidaffa
 [game]: https://drive.google.com/file/d/1gMxACV0I70_fKWekdGkIhMLy1TZue4Y8/view?usp=sharing
 [design]: https://drive.google.com/drive/folders/1jK6KTKCGqwj0p8MiniRuemo-KzH0ahsY?usp=sharing
 
