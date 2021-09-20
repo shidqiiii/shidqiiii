@@ -11,17 +11,11 @@
 <br/>
 
 ### My Portofolio :
-#### Game Programming, 2D - 3D Game Art, Game Design :
-[<img align="left" alt="game | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/gamepad-512.png" />][game]
-<br/>
-#### Graphic Design, Video Editing :
-[<img align="left" alt="design | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/graphic-design-creative-package-1/64/ART__DESIGN_4-03-512.png" />][design]
-<br/>
+[<img align="left" alt="shidqiiii | Portofolio" width="22px" src="https://i.ibb.co/fxSc5Cp/Logo.png"/>][game]
 
 [instagram]: https://instagram.com/portofolioshidqi
 [linkedin]: https://www.linkedin.com/in/shidqidaffa
-[game]: https://drive.google.com/file/d/1gMxACV0I70_fKWekdGkIhMLy1TZue4Y8/view?usp=sharing
-[design]: https://drive.google.com/drive/folders/1jK6KTKCGqwj0p8MiniRuemo-KzH0ahsY?usp=sharing
+[game]: https://shidqiiii.github.io/
 
 <!---
 shidqiiii/shidqiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
