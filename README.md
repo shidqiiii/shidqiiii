@@ -11,11 +11,11 @@
 <br/>
 
 ### My Portofolio :
-[<img align="left" alt="shidqiiii | Portofolio" width="22px" src="https://i.ibb.co/fxSc5Cp/Logo.png"/>][game]
+[<img align="left" alt="shidqiiii | Portofolio" width="22px" src="https://i.ibb.co/NLFFr13/Group-4.png"/>][game]
 
 [instagram]: https://instagram.com/portofolioshidqi
 [linkedin]: https://www.linkedin.com/in/shidqidaffa
-[game]: https://shidqiiii.github.io/
+[game]: https://arunikaproject.netlify.app/
 
 <!---
 shidqiiii/shidqiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
