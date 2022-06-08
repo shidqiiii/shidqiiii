@@ -1,7 +1,7 @@
 ### Hi there, I'm Shidqi👋
 
-- 👀 I’m interested in Game Programming, 2D - 3D Game Art, Game Design, Graphic Design, Video Editing and etc.
-- 🌱 I’m currently learning C# and blender.
+- 👀 I’m interested in Front end Web Developer, Graphic Design, Video Editing and etc.
+- 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate with other for a Project to increase my skills.
 
 ### Connect with me :
