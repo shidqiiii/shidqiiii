@@ -1,7 +1,7 @@
 ### Hi there, I'm Shidqi👋
 
-- 👀 I’m interested in Front end Web Developer, Graphic Design, Video Editing and etc.
-- 🌱 I’m currently learning React Js.
+- 👀 I’m interested in UI UX & Fullstack Development.
+- 🌱 I’m currently learning React Js & Node Js.
 - 💞️ I’m looking to collaborate with other for a Project to increase my skills.
 
 ### Connect with me :
